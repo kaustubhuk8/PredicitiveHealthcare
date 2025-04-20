@@ -70,7 +70,3 @@ Predictive-Health-Care-analysis/
 ├── data_generator.py     # Data preprocessing
 └── README.md             # Project documentation
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
