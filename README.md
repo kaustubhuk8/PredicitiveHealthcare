@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![React](https://img.shields.io/badge/react-18.2+-61DAFB.svg)
 ![Flask](https://img.shields.io/badge/flask-2.3+-000000.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A machine learning system for predicting patient readmission risks and healthcare outcomes.
 
